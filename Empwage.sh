@@ -10,3 +10,4 @@ else
 	echo  Employee is absent
 fi
 
+echo "Welcome to Emp Wage Compute"
